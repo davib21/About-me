@@ -6,14 +6,16 @@
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
 
-I'm an undergrad student at Bioprocess and Biotechonology Engineering, at the School of Agricultural Sciences - Unesp - Botucatu, Brazil.
+I'm an undergraduate student at Bioprocess and Biotechonology Engineering, at the School of Agricultural Sciences - Unesp - Botucatu, Brazil.
 
 I also own a certificate in Biotechonology, received along the high school degree at the Federal Institute of Tocantins.
 
 
-<h2>Goal and requirements</h2>
+<h2>Studies, Researchs and Interests</h2>
 
-The idea behind first implementation. What is expected, what should be included, what should not be included.
+As an undergrad student at an Engineering focused at Biological Systems, I'm currently interested in themes such as Genectical Engineering, Synthetic Biology, Electrochemical Sensors and Biosensors. Apart of my specific area, I'm also delighted by themes from mathematics, astronomy and physics.
+
+Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brazil).
 
 <h2>Key learnings</h2>
 
@@ -23,25 +25,3 @@ The idea behind first implementation. What is expected, what should be included,
 - and 
 - concise
 
-If project has been improved after submission, here is a good place to specify it.
-
-<h2>Installation</h2>
-
-1. Download this project as zip and extract it
-2. Import it in Android Studio
-3. Sync Gradle and run on your device/emulator
-
-Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="https://github.com/cesarferreira" target="_blank">@CesarFerreira</a>
-
-<h2>Contributing</h2>
-Mention pull requests. Link to an example and/or put it down here
-
-<h2>Project status</h2>
-Insert here
-
-<h2>Credits</h2>
-
-- Author: <a href="https://twitter.com/r4dixx" target="_blank">Amaël Sikel</a>
-- Illustrations
-- Colors
-- Any material
