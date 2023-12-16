@@ -17,11 +17,11 @@ As an undergrad student at an Engineering focused at Biological Systems, I'm cur
 
 Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brazil).
 
-<h2>Key learnings</h2>
+<h2>Awards and Recognition</h2>
 
-- Be 
-- clear
-- brief 
-- and 
-- concise
+- Golden Medalist at Brazilian's Biology Olympiad, 2022.
+- Merit Certificate at the Brazilian's Biology Olympiad International Selection, 2022. (Between the best 25 high school students at biology in Brazil).
+- Bronze Medalist at British Biology Olympiad, 2023.
+- 
+- 
 
